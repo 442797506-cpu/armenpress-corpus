@@ -2,7 +2,7 @@ import json
 import csv
 
 INPUT_FILE = 'armenpress_articles.json'
-CSV_FILE = '../armenpress_articles.csv'
+CSV_FILE = '../预处理清洗/armenpress_articles.csv'
 TXT_FILE = 'armenpress_articles.txt'
 
 
